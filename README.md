@@ -1,5 +1,5 @@
 {
-  "لینک": "https://myket.ir/app/com.pdfs.s",
-  "متن": "اسکچور پلاس ",
-  "تصویر ": "https://s4.uupload.ir/files/logo_42ie.png"
+  "لینک": "http://hndigram.ir",
+  "عنوان": "هندی گرام ",
+  "تصویر": "https://s4.uupload.ir/files/logo_42ie.png"
 }
