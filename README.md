@@ -1,5 +1,5 @@
 {
-  "لینک": "https://myket.ir/app/eitaa.comLovehosein3",
-  "عنوان": "فیلم های زیبای امام حسین (ع)",
-  "تصویر": "https://s4.uupload.ir/files/۲۰۲۱۰۶۰۷_۲۱۳۷۳۳_1sey.jpg"
+  "لینک": "http://hndigram.ir",
+  "عنوان": "هندی گرام: برترین فیلم های هندی",
+  "تصویر": "https://s4.uupload.ir/files/hndigram_dgdia_bpxs.png"
 }
