@@ -1,5 +1,5 @@
 {
-  "لینک": "http://hndigram.ir",
-  "عنوان": "هندی گرام: برترین فیلم های هندی",
-  "تصویر": "https://s4.uupload.ir/files/1623226408375_x903.png"
+  "لینک": "https://myket.ir/app/com.Sketchware.Plus",
+  "عنوان": "🥳نسخه جدید منتشر شد.",
+  "تصویر": "https://s4.uupload.ir/files/sketch_plus_ifi1.pngl"
 }
